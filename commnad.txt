@@ -1,2 +1,15 @@
 git --version = to check the version of git
+
+git --help = to check all command
+
 git status = to check the status of file
+
+git config --global user.name "Hasim"
+git config --global user.id "Hasims2001@gmail.com"  
+= to change the user name and user id
+
+git log = to check the user name, user id and changing massage.
+
+git commit -m "message" = to commit the files and send the massage.
+
+git 
