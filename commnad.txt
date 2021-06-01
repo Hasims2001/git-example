@@ -14,4 +14,22 @@ git log = to check the user name, user id and changing massage.
 
 git commit -m "message" = to commit the files and send the massage.
 
-git 
+git diff filename = check the update in file
+
+git diff = check all file update 
+
+
+git reset filename = to unstage the file
+git checkout filename = to delete last saved lines.
+
+git add -A = stage all
+git add . = stage new and modified without deleted
+git add -u = stages modified and deleted without new
+
+
+to clone the repo.
+git clone sshlink . = to download repo.
+
+untrack the files
+touch .gitignore
+git rm --cached Filename
