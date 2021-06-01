@@ -4,6 +4,8 @@ git --help = to check all command
 
 git status = to check the status of file
 
+git init =Create an empty Git repository or reinitialize an existing one
+
 git config --global user.name "Hasim"
 git config --global user.id "Hasims2001@gmail.com"  
 = to change the user name and user id
